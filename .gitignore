@@ -1,0 +1,25 @@
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.sqlite3
+.Python
+build/
+dist/
+*.egg-info/
+.pytest_cache/
+
+# Virtual envs
+.venv/
+venv/
+env/
+
+# IDEs
+.vscode/
+# If you want to commit .idea, remove the next line
+# .idea/
+
+# OS
+.DS_Store
+Thumbs.db
